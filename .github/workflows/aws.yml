@@ -21,4 +21,4 @@ jobs:
            KEY: ${{ secrets.SERVER_SSH_KEY }}
           with:
            source: "."
-           target: "/home/o.olusgeun/"
+           target: "/home/o.olusgeun/test"
